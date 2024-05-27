@@ -1,3 +1,5 @@
+*Intended For "Burger" on Steam*
+
 How To Use:
 
   F2 to start and stop
