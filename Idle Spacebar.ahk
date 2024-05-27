@@ -6,6 +6,9 @@ counter := 0
 
 F6::Reload
 
+^q::
+    ExitApp, 0
+
 F2::
     if toggle = Off
     {
