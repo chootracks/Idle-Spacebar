@@ -8,8 +8,8 @@ How To Use:
 
   Ctrl+Q to Quit
   
-1. Download both files
+1. Download the files
 
 2. Double click the AutoHotkey setup to install
 
-3. Open Idle Spacebar to run the program
+3. Open either Idle Spacebar or Idle Spacebar V2 to run the program
